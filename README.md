@@ -2,7 +2,7 @@
 
 #### 1. clone the dir
 ```
-git clone https://github.com/moamahfouz/momentaa.git
+git clone https://github.com/web-masters-1/momentaa.git
 ```
 #### 2. composer dependencies
 ```
